@@ -24,6 +24,7 @@ conditions.
 
 -   **React**: For building the user interface.
 -   **CSS**: For styling the application.
+-   **OpenWeatherMap API**: Provides weather data.
 
 Made with:
 
